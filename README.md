@@ -64,9 +64,13 @@ The primary goal of this analysis is twofold:
 
   ### EDA Results: From the data, we could observe that:
   ![Ploting of calling days ](https://github.com/Stone58/banking_marketing/blob/main/plots/marketing_call_days.png)
+  Ploting of calling days 
   ![Plot showing job status of the consumers ](https://github.com/Stone58/banking_marketing/blob/main/plots/job_status_of_consumer_called.png)
+  Plot showing job status of the consumers 
   ![Ploting showing the loan status of the consumers ](https://github.com/Stone58/banking_marketing/blob/main/plots/consumer_and_their_loan_status.png)
+  Ploting showing the loan status of the consumers
   ![Age distribution of the consumers ](https://github.com/Stone58/banking_marketing/blob/main/plots/age%20distribution%20of%20the%20called%20consumers.png)
+  Age distribution of the consumers
   
   - **Age Distribution:** People between 30-40 years old were the most called.
   - **Average Contact Duration:** Most marketing-goal contacts lasted for roughly 250 seconds.
