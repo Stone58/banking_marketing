@@ -16,6 +16,7 @@ The analysis aims to understand patterns in customer behavior and predict market
 
 The Bank Marketing dataset consists of data related to direct marketing campaigns of a Portuguese banking institution. The dataset contains both categorical and numerical features, providing insights into customer demographics, campaign details, and outcomes.
 
+
 ### Features in the Dataset
 
 - **Categorical Features:**
@@ -58,6 +59,11 @@ The primary goal of this analysis is twofold:
 ## Results : 
 
   ### EDA Results: From the data, we could observe that:
+  ![Ploting of calling days ](https://github.com/Stone58/banking_marketing/blob/main/plots/marketing_call_days.png)
+  ![Plot showing job status of the consumers ](https://github.com/Stone58/banking_marketing/blob/main/plots/job_status_of_consumer_called.png)
+  ![Ploting showing the loan status of the consumers ](https://github.com/Stone58/banking_marketing/blob/main/plots/consumer_and_their_loan_status.png)
+  ![Age distribution of the consumers ](https://github.com/Stone58/banking_marketing/blob/main/plots/age%20distribution%20of%20the%20called%20consumers.png)
+  
   - **Age Distribution:** People between 30-40 years old were the most called.
   - **Average Contact Duration:** Most marketing-goal contacts lasted for roughly 250 seconds.
   - **Frequency of Contact:** During marketing, clients were typically contacted once.
