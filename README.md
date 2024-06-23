@@ -4,6 +4,9 @@
 
 This repository contains ETL process, exploratory data analysis (EDA) and predictive modeling on the Bank Marketing dataset using PySpark. 
 The analysis aims to understand patterns in customer behavior and predict marketing outcomes for a bank.
+Below is the workflow used : 
+
+![Workflow](https://github.com/Stone58/banking_marketing/blob/main/plots/banking_diagram.drawio.png)
 
 ## Tools and Technologies Used
 
