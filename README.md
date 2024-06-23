@@ -81,7 +81,7 @@ The primary goal of this analysis is twofold:
 
 ### Machine Learning results : 
   - Through feature importance we can see that **the duration** of the call is the factor that influence the marketing output the most , which is understandable because a customer interested would be asking more details about the campain than someone not interested. 
-  - Due to the imbanlance form of the dataset, f1 metric was used to evaluate the dataset and a score of **89,98%** was obtained on the dataset using Linear regression algorithm.
+  - Due to the imbanlance form of the dataset, f1 metric was used to evaluate the dataset and a score of **89,98%** was obtained on the dataset using Linear regression algorithm. This result suggests that the features selected for the analysis can be used to predict the sucess of a marketing call.
   - Also, an accuracy of **92,91%** was obtained.
     
 ## Conclusion
